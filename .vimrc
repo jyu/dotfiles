@@ -8,3 +8,5 @@ set expandtab "Use spaces instead of tabs (use 'set noexpandtab' to use hard tab
 set autoindent "autoindent on new lines
 
 colorscheme desert
+
+syntax on

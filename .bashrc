@@ -10,3 +10,5 @@ alias \
 	subl="/mnt/c/Program\ Files\/Sublime\ Text\ 3/sublime_text.exe" \
   yp="yarn run prettier" \
   python="python3.6"
+
+LS_COLORS=$LS_COLORS:'di=0;31:' ; export LS_COLORS
